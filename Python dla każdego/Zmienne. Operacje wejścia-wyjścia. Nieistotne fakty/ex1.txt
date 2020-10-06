@@ -1,0 +1,6 @@
+Prawidłowe:
+- car_price - wiadomo o co chodzi i krótka
+- deliver_price - wiadomo o co chodzi i krótka
+Nieprawidłowe: 
+- podstawowa_cena_samochodu - wiadomo o co chodzi, ale za długa
+- oplata_rejestracyjna - wiadomo o co chodzi, ale za długa
