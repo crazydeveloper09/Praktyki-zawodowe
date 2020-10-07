@@ -6,7 +6,6 @@
 message= input("Podaj swój komunikat: ")
 print("Twój komunikat w odwrotnej kolejności brzmi:")
 for letter in range(len(message) -1, -1, -1):
-    print(message[letter], end="")
     print(message[letter])
 
 
