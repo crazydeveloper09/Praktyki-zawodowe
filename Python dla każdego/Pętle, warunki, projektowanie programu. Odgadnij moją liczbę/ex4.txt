@@ -1,0 +1,14 @@
+zdefiniuj licznik prób
+zapytaj o liczbe
+wybierz randomowa liczbe
+
+porównaj ze sobą
+    jeśli za duża to powiadom
+    jeśli za mała to powiadom
+    znowu wygeneruj randomowa liczbę
+    dodaj liczbe prób
+
+powiadomienie o sukcesie
+powiadomienie o liczbie prób
+
+czekanie na użytkownika
