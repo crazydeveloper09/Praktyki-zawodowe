@@ -1,7 +1,7 @@
 # Autor: Maciej Kuta
-# Data utworzenie: 9.10.2020
-# Tytuł: Telewizor
-# Cel: Przećwiczenie klas
+# Data utworzenie: 10.10.2020
+# Tytuł: Jaka to liczba 4.0
+# Cel: Jaka to liczba graficznie
 
 class Television(object):
     def __init__(self, brand, model, volume = 1, channel = ["TVP", "Eurosport", "Nsport", "Vh1", "Eleven Sport"]):
